@@ -1,3 +1,0 @@
-/home/jack/gitlab/cmake-3.25.0-tutorial-source/Step1/Step1_build/CMakeFiles/rebuild_cache.dir
-/home/jack/gitlab/cmake-3.25.0-tutorial-source/Step1/Step1_build/CMakeFiles/edit_cache.dir
-/home/jack/gitlab/cmake-3.25.0-tutorial-source/Step1/Step1_build/CMakeFiles/Tutorial.dir
